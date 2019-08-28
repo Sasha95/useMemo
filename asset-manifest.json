@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/useMemo/static/js/main.5eb8e123.chunk.js",
+    "main.js.map": "/useMemo/static/js/main.5eb8e123.chunk.js.map",
+    "runtime~main.js": "/useMemo/static/js/runtime~main.412eaa6c.js",
+    "runtime~main.js.map": "/useMemo/static/js/runtime~main.412eaa6c.js.map",
+    "static/js/2.357991f2.chunk.js": "/useMemo/static/js/2.357991f2.chunk.js",
+    "static/js/2.357991f2.chunk.js.map": "/useMemo/static/js/2.357991f2.chunk.js.map",
+    "index.html": "/useMemo/index.html",
+    "precache-manifest.a8d93c0a01ead1ce07861412da50630b.js": "/useMemo/precache-manifest.a8d93c0a01ead1ce07861412da50630b.js",
+    "service-worker.js": "/useMemo/service-worker.js"
+  }
+}
